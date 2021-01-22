@@ -1,6 +1,6 @@
 ## ✋ Hello, Friend
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=miya&count_private=true&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=miya&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **miya/miya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
