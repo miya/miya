@@ -2,8 +2,6 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=miya&count_private=true&show_icons=true&theme=tokyonight)
 
-<img src="https://media.lapras.com/media/public_setting/OCUBB8I/e0224e29d57f47e584bcefd9c2750801.png" width="500">
-
 <!--
 **miya/miya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
